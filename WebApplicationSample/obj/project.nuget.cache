@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "csCGpbVlzGjIhRp24wRaVQTEk335yr15eLv0fWYyiXBKDc9c9E8P/MWA4mYdXsRGVfdno5JOrksSBIN2p8wlaA==",
+  "success": true,
+  "projectFilePath": "/Users/karangupta/practice/quickstart-dotnetcore-cicd/WebApplicationSample/WebApplicationSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/karangupta/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/karangupta/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/karangupta/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

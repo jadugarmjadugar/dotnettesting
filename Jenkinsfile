@@ -5,6 +5,7 @@ pipeline {
             steps {
                 script {
                     echo "building jar1"
+                    sh 'dotnet build .'
                 }
             }
         }
