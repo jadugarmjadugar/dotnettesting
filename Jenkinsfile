@@ -5,7 +5,7 @@ pipeline {
             steps {
                 script {
                     echo "building jar1"
-                    sh 'dotnet build .'
+                    sh 'dotnet clean .'
                 }
             }
         }
@@ -13,7 +13,7 @@ pipeline {
             steps {
                 script {
                     echo "building jar2"
-                    //gv.buildJar()
+                    sh 'dotnet build .
                 }
             }
         }
